@@ -1,3 +1,8 @@
+Working Student Project Site:
+https://dpn418.github.io/frontend-basic/
+
+Original readme with instructions below:
+-------------------------------------------------------------------------------------------------------------------------
 Working Project:
 http://www.webizly.com/frontend-basic/
 
