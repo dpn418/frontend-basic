@@ -1,4 +1,26 @@
-Working Project:
+Working Student Project site:
+https://dpn418.github.io/frontend-basic/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Original Working Project:
 http://www.webizly.com/frontend-basic/
 
 This is based on this tutorial:
